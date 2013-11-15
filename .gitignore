@@ -12,3 +12,4 @@ epub/temp
 .#*
 *.epub
 *.lst
+*.obj
