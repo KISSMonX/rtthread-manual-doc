@@ -9,6 +9,5 @@ latex/*
 !latex/config.yml
 epub/temp
 *~
-*.*~
 .#*
 *.epub
